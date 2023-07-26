@@ -14,8 +14,6 @@ This project aims to analyze and visualize COVID-19 data using Python and popula
 
 - Data Visualization: Various visualizations are used, including bar charts, histograms, box plots, and pie charts, to present insights from the data.
 
-- Violin Plot: A violin plot is employed to visualize the distribution of COVID-19 cases for the USA, showing spread and density of data points.
-
 - Descriptive Statistics: Key statistics like quartiles, median, minimum, and maximum values are added to visualizations for a comprehensive understanding.
 
 - Project Flexibility: The code can work with various datasets and allows customization, such as changing the country for analysis or columns for plotting.
